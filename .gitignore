@@ -1,0 +1,45 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environment 
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# OS-specific
+.DS_Store  # macOS
+Thumbs.db  # Windows
+
+# Plot images or generated files 
+*.png
+*.jpg
+*.jpeg
+*.svg
+*.pdf
+*.eps
+
+# Data files 
+
+*.xls
+*.xlsx
+
+# Logs or debugging
+*.log
+
+# Statsmodels cache
+__pycache__/
+*.pickle
+
+# Plotly config
+.plotly/
+
+# Environment/config files (optional)
+.env
